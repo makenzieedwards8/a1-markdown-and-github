@@ -6,7 +6,8 @@
 
 Around the world, hospitalizations are dropping in countries where vaccines have been rolling out including Israel, England and Scotland — regardless of which shots are given. And the U.S. government’s first look at real-world data among essential workers provided further evidence that the Pfizer and Moderna vaccines are highly protective -- 90% -- against infections whether there were symptoms or not.
 
-
+ ![Different Vaccines](imgs/vaccines.png) 
+ 
 
 * Commit your work (including edits/added files) every once and a
   while.  Your final submission should include at least 5 committed
