@@ -4,6 +4,9 @@
 
 > "Real-world evidence as millions of people receive the vaccines show they're all working very well. Still, people might wonder if one is better than another since studies conducted before the vaccines were rolled out found varying levels of effectiveness. The problem is they don't offer apples-to-apples comparisons." -[US News](https://www.usnews.com/news/health-news/articles/2021-04-08/are-some-covid-19-vaccines-more-effective-than-others)
 
+Around the world, hospitalizations are dropping in countries where vaccines have been rolling out including Israel, England and Scotland — regardless of which shots are given. And the U.S. government’s first look at real-world data among essential workers provided further evidence that the Pfizer and Moderna vaccines are highly protective -- 90% -- against infections whether there were symptoms or not.
+
+
 
 * Commit your work (including edits/added files) every once and a
   while.  Your final submission should include at least 5 committed
