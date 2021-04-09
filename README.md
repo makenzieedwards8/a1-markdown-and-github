@@ -8,6 +8,8 @@ Around the world, hospitalizations are dropping in countries where vaccines have
 
  ![Different Vaccines](imgs/vaccines.png) 
  
+- The Pfizer and Moderna vaccines use messenger RNA, while the Johnson and Johnson vaccine uses the viral vectored vaccine process, utilizing an altered adenovirus. -[StatNews](https://www.statnews.com/2021/02/02/comparing-the-covid-19-vaccines-developed-by-pfizer-moderna-and-johnson-johnson/) - The best covid vaccine is whichever one you can get, and no one should wait for a specific vaccine. All three are safe, effective, and reduce risk of severe illness. -[CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html) - The Johnson and Johnson vaccine seems to have the least possible side effects, with Moderna having the most. This obviously differes for everyone, but this seems to be the general idea. -[Mayo Clinic](https://www.mayoclinic.org/coronavirus-covid-19/vaccine/comparing-vaccines)
+
 
 * Commit your work (including edits/added files) every once and a
   while.  Your final submission should include at least 5 committed
