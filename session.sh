@@ -22,10 +22,16 @@ mkdir "imgs"
 
 # At appropriate checkpoints, you'll need to do the following:
 # Add all new files you have added (if any) to the git 
-
+added imgs folder before first commit
 
 # Make a commit, including a _descriptive_ message
-
+git commit -am "heading, intro paragraph, and blockquote"
+git commit -am "added last news paragraph before image and list"
+git commit -am "added image form imgs folder into page"
+git commit -am "added unordered list with source links"
+git commit -am "deleted instructions - final version"
+git commit -am "fixed unordered list - final"
+git commit -am "updated session.sh"
 
 # Push your change up to GitHub
 
